@@ -20,7 +20,7 @@ const HeaderInfo = () => {
                 <div className="info">
                     <div className="font-medium text-gradient">
                         <div className='text-2xl'>Hello <span className='pr-4'>{user?.name || '未命名'}!</span></div>
-                        <div className='text-base xsm:text-lg xs:mt-2.5'>欢迎使用 ThriveX 现代化博客管理系统</div>
+                        <div className='text-base xsm:text-lg xs:mt-2.5'>欢迎使用Word`CrAfT 博客管理系统</div>
                     </div>
                 </div>
             </div>

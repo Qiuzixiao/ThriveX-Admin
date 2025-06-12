@@ -318,7 +318,7 @@ const Sidebar = ({ sidebarOpen, setSidebarOpen }: SidebarProps) => {
       <div className="flex justify-center items-center gap-2 px-6 py-5.5 pb-2 lg:pt-6">
         <NavLink to="/" className="flex items-center text-white">
           <img src={logo} alt="logo" className='w-8 mr-2.5' />
-          <div>博客管理系统 🎉</div>
+          <div>博客管理系统</div>
         </NavLink>
 
         {/* 移动端侧边栏触发器按钮 */}

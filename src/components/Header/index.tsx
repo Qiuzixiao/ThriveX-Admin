@@ -53,7 +53,7 @@ const Header = (props: {
             </Link>
           </div>
 
-          <div className="hidden xs:block ml-5 2xl:ml-0">再渺小的星光，也有属于他的光芒！</div>
+          <div className="hidden xs:block ml-5 2xl:ml-0">专注 · 思考 · 宁静 </div>
         </div>
 
         <div className="flex items-center gap-3 2xsm:gap-7">
